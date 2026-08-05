@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nidhishkk/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nidhishkk/leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/nidhishkk/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhishkk/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nidhishkk/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nidhishkk/leetcode/tree/master/0015-3sum) |
 ## Math
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nidhishkk/leetcode/tree/master/0264-ugly-number-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nidhishkk/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

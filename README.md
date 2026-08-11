@@ -77,9 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nidhishkk/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/nidhishkk/leetcode/tree/master/0020-valid-parentheses) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nidhishkk/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/nidhishkk/leetcode/tree/master/3360-stone-removal-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nidhishkk/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nidhishkk/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

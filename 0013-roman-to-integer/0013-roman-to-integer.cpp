@@ -11,7 +11,7 @@ public:
                 num+=equi[s[i]];
             }
         }
-        num+=equi[s[n-1]];
-        return num;
+        return num+equi[s[n-1]];
+         
     }
 };

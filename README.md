@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nidhishkk/leetcode/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/nidhishkk/leetcode/tree/master/0264-ugly-number-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhishkk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nidhishkk/leetcode/tree/master/3731-find-missing-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nidhishkk/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nidhishkk/leetcode/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/nidhishkk/leetcode/tree/master/0264-ugly-number-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nidhishkk/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nidhishkk/leetcode/tree/master/0013-roman-to-integer) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nidhishkk/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Simulation
 |  |

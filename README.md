@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nidhishkk/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nidhishkk/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/nidhishkk/leetcode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nidhishkk/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/nidhishkk/leetcode/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nidhishkk/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nidhishkk/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nidhishkk/leetcode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nidhishkk/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nidhishkk/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Simulation
 |  |

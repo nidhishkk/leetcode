@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhishkk/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/nidhishkk/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

@@ -1,9 +1,6 @@
-#include <vector>
-#include <cmath>
-
 class Solution {
 public:
-    bool stoneGameIX(std::vector<int>& stones) {
+    bool stoneGameIX(vector<int>& stones) {
         int cnt[3] = {0, 0, 0};
         for (int x : stones) {
             cnt[x % 3]++;
@@ -11,6 +8,6 @@ public:
         if (cnt[0] % 2 == 0) {
             return cnt[1] >= 1 && cnt[2] >= 1;
         }
-        return std::abs(cnt[1] - cnt[2]) > 2;
+        return abs(cnt[1] - cnt[2]) > 2;
     }
 };

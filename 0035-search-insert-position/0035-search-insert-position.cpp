@@ -6,14 +6,12 @@ public:
             int mid=i+(j-i)/2;
             if(nums[mid]<target){
                 i=mid+1;
-            }
-            else{
-                j=mid;
+            }else{
+                j=mid-1;
             }
         }
         if(nums[i]<target){
             return i+1;
-        }
-        return i;
+        }return i;
     }
 };

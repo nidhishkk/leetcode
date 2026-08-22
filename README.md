@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/nidhishkk/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nidhishkk/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/nidhishkk/leetcode/tree/master/3360-stone-removal-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nidhishkk/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

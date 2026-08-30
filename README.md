@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nidhishkk/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nidhishkk/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nidhishkk/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/nidhishkk/leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/nidhishkk/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhishkk/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/nidhishkk/leetcode/tree/master/0169-majority-element) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nidhishkk/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/nidhishkk/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/nidhishkk/leetcode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/nidhishkk/leetcode/tree/master/0264-ugly-number-ii) |
 | [1386-cinema-seat-allocation](https://github.com/nidhishkk/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nidhishkk/leetcode/tree/master/0036-valid-sudoku) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nidhishkk/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
 |  |

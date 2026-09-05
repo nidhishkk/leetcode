@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/nidhishkk/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nidhishkk/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2029-stone-game-ix](https://github.com/nidhishkk/leetcode/tree/master/2029-stone-game-ix) |
+| [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
 | [2706-buy-two-chocolates](https://github.com/nidhishkk/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhishkk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nidhishkk/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nidhishkk/leetcode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/nidhishkk/leetcode/tree/master/0264-ugly-number-ii) |
 | [1386-cinema-seat-allocation](https://github.com/nidhishkk/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhishkk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhishkk/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nidhishkk/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/nidhishkk/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
 ## Binary Search
 |  |
 | ------- |

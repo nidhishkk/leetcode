@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nidhishkk/leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/nidhishkk/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhishkk/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nidhishkk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nidhishkk/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/nidhishkk/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/nidhishkk/leetcode/tree/master/0414-third-maximum-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nidhishkk/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nidhishkk/leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/nidhishkk/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nidhishkk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhishkk/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/nidhishkk/leetcode/tree/master/0881-boats-to-save-people) |
 ## Math
@@ -182,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nidhishkk/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nidhishkk/leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nidhishkk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/nidhishkk/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nidhishkk/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2029-stone-game-ix](https://github.com/nidhishkk/leetcode/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/nidhishkk/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2706-buy-two-chocolates](https://github.com/nidhishkk/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhishkk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nidhishkk/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nidhishkk/leetcode/tree/master/0036-valid-sudoku) |
 | [1572-matrix-diagonal-sum](https://github.com/nidhishkk/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nidhishkk/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/nidhishkk/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## String
 |  |
 | ------- |

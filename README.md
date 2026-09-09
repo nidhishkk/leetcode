@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nidhishkk/leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/nidhishkk/leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/nidhishkk/leetcode/tree/master/0881-boats-to-save-people) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhishkk/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/nidhishkk/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/nidhishkk/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/nidhishkk/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nidhishkk/leetcode/tree/master/0036-valid-sudoku) |
 | [0867-transpose-matrix](https://github.com/nidhishkk/leetcode/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhishkk/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nidhishkk/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nidhishkk/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nidhishkk/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nidhishkk/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nidhishkk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/nidhishkk/leetcode/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhishkk/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Design
 |  |
 | ------- |

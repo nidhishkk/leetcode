@@ -9,7 +9,7 @@ class Solution {
                     count++;
                 }
                 else{
-                    continue;
+                    break;
                 }
             }
         }return count;

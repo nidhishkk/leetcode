@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nidhishkk/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhishkk/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/nidhishkk/leetcode/tree/master/0264-ugly-number-ii) |
 ## Prefix Sum
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nidhishkk/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nidhishkk/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nidhishkk/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/nidhishkk/leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/nidhishkk/leetcode/tree/master/0264-ugly-number-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nidhishkk/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2029-stone-game-ix](https://github.com/nidhishkk/leetcode/tree/master/2029-stone-game-ix) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nidhishkk/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nidhishkk/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -7,11 +7,9 @@ class Solution {
         int longest=0;
         for(int i:set){
             int length=1;
-            int curr=i;
             if(!set.contains(i-1)){
-                while(set.contains(curr+1)){
+                while(set.contains(i+length)){
                     length++;
-                    curr++;
                 }
                 longest=Math.max(longest,length);
             }

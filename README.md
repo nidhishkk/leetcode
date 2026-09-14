@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nidhishkk/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nidhishkk/leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/nidhishkk/leetcode/tree/master/0264-ugly-number-ii) |
+| [0836-rectangle-overlap](https://github.com/nidhishkk/leetcode/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nidhishkk/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2029-stone-game-ix](https://github.com/nidhishkk/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nidhishkk/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nidhishkk/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/nidhishkk/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

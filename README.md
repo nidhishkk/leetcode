@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nidhishkk/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/nidhishkk/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/nidhishkk/leetcode/tree/master/0414-third-maximum-number) |
+| [0643-maximum-average-subarray-i](https://github.com/nidhishkk/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nidhishkk/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nidhishkk/leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/nidhishkk/leetcode/tree/master/0867-transpose-matrix) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/nidhishkk/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhishkk/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
 |  |

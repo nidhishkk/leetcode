@@ -2,9 +2,6 @@ class Solution {
     public int trap(int[] height) {
         int left=0;
         int len=height.length;
-        if(len==0){
-            return 0;
-        }
         int right=len-1;
         int leftmax=height[0];
         int rightmax=height[len-1];

@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/nidhishkk/leetcode/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/nidhishkk/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/nidhishkk/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/nidhishkk/leetcode/tree/master/1068-product-sales-analysis-i) |
 ## Minimax
 |  |
 | ------- |

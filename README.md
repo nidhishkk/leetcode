@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/nidhishkk/leetcode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/nidhishkk/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/nidhishkk/leetcode/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/nidhishkk/leetcode/tree/master/0595-big-countries) |
 ## Minimax
 |  |
 | ------- |

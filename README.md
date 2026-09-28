@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nidhishkk/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhishkk/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/nidhishkk/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nidhishkk/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nidhishkk/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nidhishkk/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhishkk/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -216,10 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nidhishkk/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nidhishkk/leetcode/tree/master/0042-trapping-rain-water) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nidhishkk/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nidhishkk/leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nidhishkk/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |

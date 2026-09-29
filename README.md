@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nidhishkk/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nidhishkk/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nidhishkk/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/nidhishkk/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhishkk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nidhishkk/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nidhishkk/leetcode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/nidhishkk/leetcode/tree/master/2029-stone-game-ix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nidhishkk/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nidhishkk/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhishkk/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nidhishkk/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nidhishkk/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |
 | ------- |

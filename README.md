@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nidhishkk/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/nidhishkk/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nidhishkk/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/nidhishkk/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nidhishkk/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nidhishkk/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nidhishkk/leetcode/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nidhishkk/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nidhishkk/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/nidhishkk/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/nidhishkk/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhishkk/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/nidhishkk/leetcode/tree/master/0264-ugly-number-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nidhishkk/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/nidhishkk/leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/nidhishkk/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/nidhishkk/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/nidhishkk/leetcode/tree/master/0680-valid-palindrome-ii) |

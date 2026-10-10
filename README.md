@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/nidhishkk/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nidhishkk/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nidhishkk/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nidhishkk/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nidhishkk/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2029-stone-game-ix](https://github.com/nidhishkk/leetcode/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nidhishkk/leetcode/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/nidhishkk/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nidhishkk/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nidhishkk/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2706-buy-two-chocolates](https://github.com/nidhishkk/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhishkk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nidhishkk/leetcode/tree/master/3731-find-missing-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nidhishkk/leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/nidhishkk/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nidhishkk/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nidhishkk/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nidhishkk/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhishkk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nidhishkk/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/nidhishkk/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nidhishkk/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nidhishkk/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/nidhishkk/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nidhishkk/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3794-reverse-string-prefix](https://github.com/nidhishkk/leetcode/tree/master/3794-reverse-string-prefix) |

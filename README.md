@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nidhishkk/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhishkk/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/nidhishkk/leetcode/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/nidhishkk/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nidhishkk/leetcode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nidhishkk/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nidhishkk/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nidhishkk/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/nidhishkk/leetcode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/nidhishkk/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
 ## Binary Search

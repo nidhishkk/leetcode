@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/nidhishkk/leetcode/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nidhishkk/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nidhishkk/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nidhishkk/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nidhishkk/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nidhishkk/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nidhishkk/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nidhishkk/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nidhishkk/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nidhishkk/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhishkk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nidhishkk/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |

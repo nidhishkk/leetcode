@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/nidhishkk/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/nidhishkk/leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/nidhishkk/leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/nidhishkk/leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/nidhishkk/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/nidhishkk/leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/nidhishkk/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nidhishkk/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/nidhishkk/leetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/nidhishkk/leetcode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/nidhishkk/leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/nidhishkk/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nidhishkk/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nidhishkk/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/nidhishkk/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/nidhishkk/leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->

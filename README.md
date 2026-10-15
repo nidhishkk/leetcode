@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nidhishkk/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/nidhishkk/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Memoization
 |  |
 | ------- |
@@ -464,4 +465,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/nidhishkk/leetcode/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/nidhishkk/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/nidhishkk/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

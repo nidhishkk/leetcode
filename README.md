@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/nidhishkk/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nidhishkk/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/nidhishkk/leetcode/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/nidhishkk/leetcode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/nidhishkk/leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/nidhishkk/leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/nidhishkk/leetcode/tree/master/0610-triangle-judgement) |

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/nidhishkk/leetcode/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nidhishkk/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nidhishkk/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nidhishkk/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/nidhishkk/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/nidhishkk/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nidhishkk/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nidhishkk/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nidhishkk/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nidhishkk/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nidhishkk/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2706-buy-two-chocolates](https://github.com/nidhishkk/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nidhishkk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nidhishkk/leetcode/tree/master/3731-find-missing-elements) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/nidhishkk/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/nidhishkk/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nidhishkk/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nidhishkk/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3794-reverse-string-prefix](https://github.com/nidhishkk/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nidhishkk/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhishkk/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nidhishkk/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nidhishkk/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nidhishkk/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |

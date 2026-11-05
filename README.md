@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nidhishkk/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/nidhishkk/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhishkk/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nidhishkk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/nidhishkk/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/nidhishkk/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nidhishkk/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nidhishkk/leetcode/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/nidhishkk/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nidhishkk/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nidhishkk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nidhishkk/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nidhishkk/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nidhishkk/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nidhishkk/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/nidhishkk/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nidhishkk/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nidhishkk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nidhishkk/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/nidhishkk/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nidhishkk/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nidhishkk/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/nidhishkk/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhishkk/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nidhishkk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nidhishkk/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nidhishkk/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nidhishkk/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |

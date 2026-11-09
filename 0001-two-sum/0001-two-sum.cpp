@@ -7,9 +7,8 @@ public:
             if(idx.find(required)!=idx.end()){
                 return {i,idx[required]};
             }
-            else{
-                idx.insert({nums[i],i});
-            }
-        }return {};
+            idx[nums[i]]=i;
+        }
+        return {};
     }
 };

@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/nidhishkk/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/nidhishkk/leetcode/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/nidhishkk/leetcode/tree/master/1251-average-selling-price) |
+| [1321-restaurant-growth](https://github.com/nidhishkk/leetcode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/nidhishkk/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nidhishkk/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/nidhishkk/leetcode/tree/master/1393-capital-gainloss) |

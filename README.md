@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/nidhishkk/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/nidhishkk/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/nidhishkk/leetcode/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/nidhishkk/leetcode/tree/master/1693-daily-leads-and-partners) |
 ## Minimax
 |  |
 | ------- |

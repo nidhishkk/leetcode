@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nidhishkk/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/nidhishkk/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/nidhishkk/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1667-fix-names-in-a-table](https://github.com/nidhishkk/leetcode/tree/master/1667-fix-names-in-a-table) |
 ## Minimax
 |  |
 | ------- |

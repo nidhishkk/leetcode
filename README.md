@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nidhishkk/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/nidhishkk/leetcode/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/nidhishkk/leetcode/tree/master/1407-top-travellers) |
+| [1517-find-users-with-valid-e-mails](https://github.com/nidhishkk/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 ## Minimax
 |  |
 | ------- |

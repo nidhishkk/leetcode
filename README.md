@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/nidhishkk/leetcode/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/nidhishkk/leetcode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/nidhishkk/leetcode/tree/master/0595-big-countries) |
+| [0601-human-traffic-of-stadium](https://github.com/nidhishkk/leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/nidhishkk/leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/nidhishkk/leetcode/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/nidhishkk/leetcode/tree/master/0626-exchange-seats) |
